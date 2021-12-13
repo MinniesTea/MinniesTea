@@ -8,4 +8,6 @@ During the past year I have consolidated my foundation by creating projects. I u
 
 I am excited to apply my skills in a professional setting to further develop and consolidate my knowledge.
 
+Take a peak at some of my projects below!
+
 
