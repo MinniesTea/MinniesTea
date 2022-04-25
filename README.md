@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self-taught developer, and recent graduate, with a strong foundation in software programming concepts. I am self-taught in Java, HTML/CSS, JS & React, and I recently completed Tech Talent Academy’s Data Science Bootcamp learning Python, including key data science libraries. In addition to this I have also completed Baltic Apprenticeships Data Accelerator Bootcamp looking at the fundamentals of SQL and databases. 
+I am a self-taught developer, and recent graduate, with a strong foundation in software programming concepts. I am self-taught in Java, HTML/CSS, JS & React. I recently completed Tech Talent Academy’s Data Science Bootcamp learning Python, including key data science libraries. In addition to this I have also completed Baltic Apprenticeships Data Accelerator Bootcamp looking at the fundamentals of SQL and databases. 
 
 My motivation for choosing a career in software development, and changing from photography, comes from a university project. I had to create a website to display my portfolio, and I learned the syntax of HTML, CSS, JavaScript to complete this. During this time, I realised how I can transform ideas to a working application, leading to a real positive benefit on the community around me. This drives me to produce the best work I can using the best practices.
 
